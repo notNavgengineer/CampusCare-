@@ -1,5 +1,8 @@
 # Campus Care — Campus Maintenance Service
 
+<img width="1899" height="992" alt="image" src="https://github.com/user-attachments/assets/5154e28d-c14f-431e-b802-8392d5ef1343" />
+
+
 A calm, trustworthy web app for reporting and resolving campus maintenance issues.
 Students report a problem, staff fix it, and the student confirms it with a clear
 four-step trail (Reported → Assigned → Fixed → Confirmed) on every ticket.
