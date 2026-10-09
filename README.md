@@ -1,7 +1,7 @@
-# CampusCare — Campus Maintenance Service
+# Campus Care — Campus Maintenance Service
 
 A calm, trustworthy web app for reporting and resolving campus maintenance issues.
-Students report a problem, staff fix it, and the student confirms it — with a clear
+Students report a problem, staff fix it, and the student confirms it with a clear
 four-step trail (Reported → Assigned → Fixed → Confirmed) on every ticket.
 
 ## Roles
